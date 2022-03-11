@@ -1,0 +1,2 @@
+track type=bigWig name=esc_ago2clip_tagged smoothingWindow=4 color=123,100,50 autoScale=on viewLimits=1:200 visibility=full windowingFunction=maximum bigDataUrl=https://github.com/moritzschaefer/temp-files/raw/master/GSM1502749_TT-FHAgo2_Tagged_ES_iCLIP_5pEnds.bw
+track type=bigWig name=esc_ago2clip_untagged smoothingWindow=4 color=123,100,50 autoScale=on viewLimits=1:200 visibility=full windowingFunction=maximum bigDataUrl=https://github.com/moritzschaefer/temp-files/raw/master/GSM1502750_TT-Ago2_Untagged_ES_iCLIP_5pEnds.bw
